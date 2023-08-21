@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-WELCOME 
-hello economy
-=======
+Sample
 WELCOME here.
 hello 
