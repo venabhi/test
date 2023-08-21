@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 WELCOME 
-hello earth
+hello economy
 =======
 WELCOME here.
 >>>>>>> 1baa102354ed38dfd8add4df15f58f53f89d4724
